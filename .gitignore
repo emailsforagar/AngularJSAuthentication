@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/AngularJSAuthentication.Web/obj/Debug
+/AngularJSAuthentication.Web/bin
+/AngularJSAuthentication/obj/Debug
+/AngularJSAuthentication/bin
+/AngularJSAuthentication.API/obj/Debug
+/AngularJSAuthentication.API/bin
